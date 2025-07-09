@@ -13,7 +13,7 @@ class KesenianRepository implements KesenianRepositoryInterface
     }
 
     public function findById($id)
-    {
+    {   
         return Kesenian::findOrFail($id);
     }
 

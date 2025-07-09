@@ -91,3 +91,5 @@ Untuk memisahkan logika bisnis dan query database dari controller, kita telah me
     - Dan seterusnya untuk model lainnya.
 
 ---
+
+Test Aja
